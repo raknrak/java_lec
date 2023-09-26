@@ -33,5 +33,6 @@ public class ScannerExample {
         }
 
         System.out.println("종료");
+
     }
 }
